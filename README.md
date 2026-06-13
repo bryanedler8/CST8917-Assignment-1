@@ -5,7 +5,7 @@ Here is a complete response to the assignment, written in the required format fo
 # CST8917 - Assignment 1: Serverless Computing - Critical Analysis
 
 **Name:** Bryan Edler
-**Student Number:** [041016930]
+**Student Number:** 041016930
 **Course:** CST8917 - Serverless Applications
 **Date:** June 13, 2026
 
