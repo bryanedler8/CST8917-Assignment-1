@@ -68,7 +68,6 @@ This verdict is not a condemnation. For the use cases in this course—orchestra
 
 4.  Microsoft. (2023). *Fan-out/fan-in scenario in Durable Functions.* Microsoft Learn. [https://learn.microsoft.com/en-us/azure/azure-functions/durable/durable-functions-cloud-backup](https://learn.microsoft.com/en-us/azure/azure-functions/durable/durable-functions-cloud-backup)
 
-5.  Brock, C. (2021). *Understanding the Storage Architecture of Azure Durable Functions.* Azure Functions Blog. [https://techcommunity.microsoft.com/t5/apps-on-azure-blog/understanding-the-storage-architecture-of-azure-durable-functions/ba-p/2207396](https://techcommunity.microsoft.com/t5/apps-on-azure-blog/understanding-the-storage-architecture-of-azure-durable-functions/ba-p/2207396)
 
 ---
 
